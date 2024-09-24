@@ -4,7 +4,7 @@ Welcome to my internship project repository.This repository contains projects I 
 
 ## Project Overview
 
-1. [Data Analytics Process in Real Life]
+1. [Data Analytics Process in Real Life](Trainity-Internship-Projects/Project 1 - )
 2. [Instagram User Analytics (SQL Fundamentals)]
 3. [Operation and Metric Analytics (Advanced SQL)]
 4. [Hiring Process Analytics (Statistics)]
