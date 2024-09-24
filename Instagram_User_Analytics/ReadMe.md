@@ -131,7 +131,7 @@ ORDER BY username ASC;
 
 ## Deliverable:
 
-The deliverable is an [Instagram User Analytics Report] that includes:
+The deliverable is an [Instagram User Analytics Report](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Instagram_User_Analytics/Instagram%20User%20Analytics.pdf) that includes:
 
 - __Marketing insights__ (loyal users, effective hashtags).
 - __Investor metrics__ (user engagement trends).
