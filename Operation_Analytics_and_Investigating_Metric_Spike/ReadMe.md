@@ -190,7 +190,11 @@ ORDER BY user_id;
 ```
 ![Screenshot 2024-09-24 214453](https://github.com/user-attachments/assets/2d9a6422-ad5f-4ee4-bce3-7f300f35d453)
 
+## Tools Used:
 
+- SQL
+- MySQL Workbench
+  
 ## Insights:
 
 - Jobs reviewed per hour for each day in November 2020 is __126.18__.
@@ -200,9 +204,9 @@ ORDER BY user_id;
 
 ## Deliverable:
 
-The deliverable is an [Operation Analytics and Investigating Metric Spike Report]().
+The deliverable is an [Operation Analytics and Investigating Metric Spike Report](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Operation_Analytics_and_Investigating_Metric_Spike/Operational%20analytics%20and%20investigating%20metric%20spike%20.pptx).
 
-
+The report will provide visualizations and insights derived from SQL queries to help stakeholders make data-driven decisions.
 
 
 
