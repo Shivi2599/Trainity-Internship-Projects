@@ -5,7 +5,7 @@ Welcome to my internship project repository.This repository contains projects I 
 ## Project Overview
 
 1. [Data Analytics Process in Real Life](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Data%20Analytics%20Process%20-%20Application%20in%20Real%20Life%20Scenario/ReadMe.md) 
-2. [Instagram User Analytics (SQL Fundamentals)]
+2. [Instagram User Analytics (SQL Fundamentals)](https://github.com/Shivi2599/Trainity-Internship-Projects/edit/main/Instagram_User_Analytics/ReadMe.md)
 3. [Operation and Metric Analytics (Advanced SQL)]
 4. [Hiring Process Analytics (Statistics)]
 5. [IMDB Movie Analysis]
