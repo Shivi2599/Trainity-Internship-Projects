@@ -10,18 +10,18 @@ As a data analyst at a leading multinational company, such as Google, your role 
 
 1. #### Handling Missing Data:
    
-The first step in the analysis is to assess the dataset for any missing values. If missing data is identified, you will determine the best strategy to handle it (e.g., __removing rows, imputing values, or leaving them as is__, depending on the context).
+   The first step in the analysis is to assess the dataset for any missing values. If missing data is identified, you will determine the best strategy to handle it (e.g., __removing rows, imputing values, or leaving them as is__, depending on the context).
 
 2. #### Clubbing Columns
 
-Some columns may contain multiple categories that can be grouped for simplification and clearer analysis. __Clubbing__ these columns will reduce complexity and ensure the data is easier to interpret.
+   Some columns may contain multiple categories that can be grouped for simplification and clearer analysis. __Clubbing__ these columns will reduce complexity and ensure the data is easier to interpret.
 
 3. #### Outlier Detection and Removal:
 
-Check for __outliers__ that could skew the results of the analysis. Implement a strategy to remove outliers based on their potential impact on the analysis.
+   Check for __outliers__ that could skew the results of the analysis. Implement a strategy to remove outliers based on their potential impact on the analysis.
 
 4. #### Data Summary:
-After preparing and cleaning the data, a __summary__ will be provided. This summary will include statistical measures like averages, medians, and key visualizations that depict trends in the hiring process.
+   After preparing and cleaning the data, a __summary__ will be provided. This summary will include statistical measures like averages, medians, and key visualizations that depict trends in the hiring process.
 
 The analysis will cover a variety of insights using __Excel__, offering an in-depth understanding of the company’s hiring process and identifying areas for improvement.
 
@@ -33,7 +33,7 @@ __Question:__ What is the gender distribution of hires? How many males and femal
 
 - __Analysis:__ The hiring data will be examined to determine the number of male and female hires. This will help in understanding the gender balance in the hiring process.
 - __Deliverable:__ Gender distribution insights in the form of a bar graph or pie chart visualizing the proportion of males and females hired.
-  
+
 ##### B. Salary Analysis - Average Salary:
 Question: What is the average salary offered by the company?
 
