@@ -1,4 +1,4 @@
-# Project 1 - Data Analytics Process - Application in Real Life Scenario
+# Data Analytics Process - Application in Real Life Scenario
 
 ## Title: Applying the Data Analytics Process to Purchase a Laptop
 
