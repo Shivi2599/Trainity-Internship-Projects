@@ -17,4 +17,6 @@
 - Data Analytics process understanding
 - Presentation
 
-  
+## Deliverable:
+
+[Report on Real Life Scenario]()
