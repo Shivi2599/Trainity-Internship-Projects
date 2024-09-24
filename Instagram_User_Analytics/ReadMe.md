@@ -20,7 +20,7 @@ This project focuses on answering key business questions using __SQL__ and __MyS
 
 - __Goal:__ The marketing team wants to reward the most loyal users—those who have been with the platform for the longest time.
 - __Task:__ Identify the five oldest users on Instagram by registration date.
-- __SQL Query:__
+ ##### SQL Query:
  ``` sql
 SELECT username, created_at
 FROM users
@@ -32,7 +32,7 @@ LIMIT 5;
 
 - __Goal:__ Encourage inactive users to start posting by sending them promotional emails.
 - __Task:__ Identify users who have never posted a photo.
-- __SQL Query:__
+ ##### SQL Query:
  ``` sql
 SELECT username
 FROM users
@@ -44,7 +44,7 @@ WHERE photos.user_id IS NULL;
 
 - __Goal:__ Determine the winner of a contest where the user with the most likes on a single photo wins.
 - __Task:__ Identify the user with the highest number of likes on a single post.
-- __SQL Query:__
+ ##### SQL Query:
 ```sql
 SELECT username, photos.id, photos.image_url,
 COUNT(likes.user_id) as like_count
@@ -60,7 +60,7 @@ LIMIT 1;
    
 - __Goal:__ A partner brand wants to know which hashtags are most effective for engagement.
 - __Task:__ Identify the top five most commonly used hashtags on the platform.
-- __SQL Query:__
+ ##### SQL Query:
 ```sql
 SELECT tag_name ,count(*) as hashtag_count
 FROM tags
@@ -74,7 +74,7 @@ LIMIT 5;
 
 - __Goal:__ Find the best day of the week to launch a new ad campaign based on user registration activity.
 - __Task:__ Identify the day of the week with the highest number of user registrations.
-- __SQL Query:__
+ ##### SQL Query:
 ```sql
 SELECT DAYNAME(created_at) AS registration_day,
 COUNT(*) AS registration_count
@@ -90,7 +90,7 @@ limit 2;
 
 - __Goal:__ Provide insights into how engaged users are and how frequently they post.
 - __Task:__ Calculate the average number of posts per user and provide the total number of posts divided by the total number of users.
-- __SQL Query:__
+ ##### SQL Query:
 ```sql
 SELECT AVG(photo_count) AS average_posts_per_user
 FROM (
@@ -98,8 +98,7 @@ SELECT user_id, COUNT(*) AS photo_count
 FROM photos
 GROUP BY user_id
 )user_photos_count;
-```
-```sql
+
 SELECT COUNT(*) AS total_photos, COUNT(DISTINCT user_id) AS
 total_users,
 COUNT(*) / COUNT(DISTINCT user_id) AS
@@ -111,7 +110,7 @@ FROM photos;
 
 - __Goal:__ Identify users who may be bots or fake accounts by detecting unusual behavior.
 - __Task:__ Identify users who have liked every single photo on Instagram.
-- __SQL Query:__
+ ##### SQL Query:
 ```sql
 SELECT id, username
 FROM users
