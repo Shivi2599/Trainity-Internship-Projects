@@ -1,6 +1,6 @@
 # Hiring Process Analytics - Statistics
 
-__Difficulty Level:__ Intermediate
+__Difficulty Level:__ Intermediate 
 
 ## Description
 
