@@ -106,8 +106,8 @@ The __Five Whys__ technique helps us explore the root causes of trends in the da
 
 ## Deliverables:
 
-1. [IMDB Movie Analysis Report]
-2. [Excel Workbook]
+1. [IMDB Movie Analysis Report](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/IMDB_Movie_Analysis/imdb%20movies%20analysis.pptx)
+2. [Excel Workbook](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/IMDB_Movie_Analysis/IMDB%20movies_analysis.xlsx)
 
 
 
