@@ -54,7 +54,8 @@ __Question:__ How are the salaries distributed across different ranges?
 - __Analysis:__ Class intervals for salary ranges will be created to group employees based on their salary levels. This will provide an understanding of the salary distribution within the company.
 - __Deliverable:__ A histogram representing salary class intervals, giving a clear view of how salaries are distributed.
 
-  
+  ![Screenshot 2024-09-25 160424](https://github.com/user-attachments/assets/0004f015-c6a1-4c8a-a7f2-60296299eff2)
+
 
 ##### D. Departmental Analysis - Department Proportion:
 
@@ -72,7 +73,7 @@ __Question:__ What is the distribution of employees across different position ti
 - __Analysis:__ The distribution of employees across various position tiers (entry-level, mid-level, senior-level) will be analyzed. This will provide insights into the structure of the company’s workforce.
 - __Deliverable:__ A bar chart or stacked bar chart showing the distribution of positions across different tiers.
 
-  ![Screenshot 2024-09-25 154302](https://github.com/user-attachments/assets/2b8446a4-84be-4eef-a148-c430d7bc8669)
+  ![Screenshot 2024-09-25 155722](https://github.com/user-attachments/assets/165543aa-24d6-4576-9cf8-04336ff08525)
 
 ## Tools and Technologies Used:
 
