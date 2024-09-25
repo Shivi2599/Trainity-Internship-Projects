@@ -81,4 +81,7 @@ __Question:__ What is the distribution of employees across different position ti
 - Statistics
 - Presentation Skills
 
+## Deliverable:
+
+The deliverable is a [Hiring Process Analysis report](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Hiring%20Process%20Analytics/hiring%20process%20analytics.pptx).
 
