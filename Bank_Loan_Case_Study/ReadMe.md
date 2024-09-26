@@ -1,4 +1,4 @@
-# Bank Loan Case Stdy
+# Bank Loan Case Study - Exploratory Data Analysis(EDA)
 
 ### Final Project 2
 
