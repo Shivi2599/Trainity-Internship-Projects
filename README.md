@@ -9,7 +9,7 @@ Welcome to my internship project repository.This repository contains projects I 
 3. [Operation and Metric Analytics (Advanced SQL)](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Operation_Analytics_and_Investigating_Metric_Spike/ReadMe.md)
 4. [Hiring Process Analytics (Statistics)](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Hiring%20Process%20Analytics/ReadMe.md)
 5. [IMDB Movie Analysis](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/IMDB_Movie_Analysis/ReadMe.md)
-6. [Bank Loan Case Study]
+6. [Bank Loan Case Study](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Bank_Loan_Case_Study/ReadMe.md)
 7. [Impact of Car Features]
 8. [ABC Call Trend]
 
