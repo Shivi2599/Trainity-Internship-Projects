@@ -79,6 +79,11 @@ To gain deep insights into the driving factors behind loan default, we perform:
 - Use Excel functions like `COUNT`, `AVERAGE`, `MEDIAN` for descriptive analysis.
 - Apply __filters, sorting, and pivot tables__ for segmented and bivariate analysis.
 
+#### Graph Suggestion:
+
+- Use __histograms, bar charts__ for visualizing distributions.
+- Create __stacked bar charts or grouped bar charts__ for segmented comparisons.
+
 ### E. Identify Top Correlations for Different Scenarios:
 
 Understanding the correlation between customer/loan attributes and the likelihood of loan default helps in identifying key indicators for risk assessment.
@@ -98,12 +103,11 @@ Create __correlation matrices or heatmaps__ to visualize correlations.
 - __Excel functions__ such as `COUNTIF`, `AVERAGE`, `CORREL`, `IF`, `QUARTILE`, and others for handling missing data, outliers, correlations, and performing EDA.
 
 ## Deliverables:
-The final deliverable is a comprehensive [Bank Loan Case Study Report] that provides the following:
+The final deliverable is a comprehensive [Bank Loan Case Study Report](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Bank_Loan_Case_Study/BANK%20LOAN%20CASE%20STUDY.pptx) that provides the following:
 
 - __Insights into missing data__, outliers, and data imbalance.
 - __Univariate, segmented univariate, and bivariate analysis__ of key variables.
 - __Top correlations__ for different customer and loan scenarios.
-- __Actionable recommendations__ based on EDA findings to improve loan approval processes.
   
 ## Conclusion:
 
