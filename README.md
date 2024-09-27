@@ -10,12 +10,8 @@ Welcome to my internship project repository.This repository contains projects I 
 4. [Hiring Process Analytics (Statistics)](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Hiring%20Process%20Analytics/ReadMe.md)
 5. [IMDB Movie Analysis](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/IMDB_Movie_Analysis/ReadMe.md)
 6. [Bank Loan Case Study](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Bank_Loan_Case_Study/ReadMe.md)
-7. [Impact of Car Features]
+7. [Impact of Car Features](https://github.com/Shivi2599/Trainity-Internship-Projects/tree/main/Analyzing%20the%20Impact%20of%20Car%20Features%20on%20Price%20and%20Profitability)
 8. [ABC Call Trend]
-
-## Portfolio Overview
-
-1. Projects Highlight
 
 ## Technologies Used
 
@@ -25,3 +21,5 @@ Welcome to my internship project repository.This repository contains projects I 
 - Data Analysis
 - Statistics
 - Presentation
+- Regression Analysis
+- Pivot Tables
