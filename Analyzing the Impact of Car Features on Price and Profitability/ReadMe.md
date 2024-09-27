@@ -131,9 +131,9 @@ Filters and slicers allow users to explore the data dynamically
 
 ## Deliverables:
 
-- Presentation Slides
-- Interactive Dashboard
-- Data Visualization Files
+- [Raw Dataset](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Analyzing%20the%20Impact%20of%20Car%20Features%20on%20Price%20and%20Profitability/Dataset.xlsx)
+- [Data Visualization Files](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Analyzing%20the%20Impact%20of%20Car%20Features%20on%20Price%20and%20Profitability/Data%20Analysis.xlsx)
+- [Presentation Slides](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Analyzing%20the%20Impact%20of%20Car%20Features%20on%20Price%20and%20Profitability/Analyzing%20the%20Impact%20Of%20Car%20Features%20on%20Price.pptm)
 
 
 
