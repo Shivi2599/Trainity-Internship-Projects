@@ -62,12 +62,25 @@ In the case of inbound support, handling call volume efficiently is key. This pr
 2. __Visualization:__ Call volume trends are visualized using graphs and charts to showcase the distribution of calls across time buckets.
 3. __Manpower Calculation:__ Staffing requirements are calculated based on the call abandon rate and the desired service level, ensuring that the team is optimally staffed throughout the day.
 
+## Insights
+
+- The average call duration is __199 seconds__ or __3 mins and 19 seconds__.
+- The __peak call__ activity is observed during __midday__.
+- __High rates of abandoned calls__ during peak periods from __9 AM to 12 PM__ and from __8 PM to 9 PM__, with __lower abandonment rates__ observed in the __afternoon__, highlight fluctuations in call abandonment  throughout the day. 
+
 ## Key Deliverables:
-- __Call Volume Trend Graphs:__ A visual representation of total calls received in different time buckets.
-- __Average Call Duration Report:__ A detailed report on call durations for different periods, helping to optimize agent productivity.
-- __Manpower Planning Strategy:__ A data-driven approach to reducing the call abandon rate from 30% to 10%, with clear recommendations for both day and night shift staffing.
+
+- [Powerpoint Report](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/ABC%20Call%20Volume%20Trend%20Analysis/project%208%20CX%20Analytics.pptx)
+  - __Call Volume Trend Graphs__ 
+  - __Average Call Duration Report__ 
+  - __Manpower Planning Strategy__
+
+- [Data Analysis.xlsx](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/ABC%20Call%20Volume%20Trend%20Analysis/CX%20analytics%20for%20abc%20insurance%20company.xlsx)
+
+- [Raw Dataset](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/ABC%20Call%20Volume%20Trend%20Analysis/Call_Volume_Trend_Analysis_Project_9.xlsx)
 
 ## Conclusion:
+
 This project provides an in-depth analysis of call volume trends and staffing optimization for the ABC Insurance Company's inbound customer support team. By analyzing key metrics like average call duration, call volume, and abandoned call rates, we have proposed a comprehensive manpower plan to improve customer experience.
 
 The insights derived from this analysis can be used by the company to not only optimize daily operations but also ensure a higher level of customer satisfaction, transforming callers into loyal advocates for the business.
