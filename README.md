@@ -11,15 +11,19 @@ Welcome to my internship project repository.This repository contains projects I 
 5. [IMDB Movie Analysis](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/IMDB_Movie_Analysis/ReadMe.md)
 6. [Bank Loan Case Study](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/Bank_Loan_Case_Study/ReadMe.md)
 7. [Impact of Car Features](https://github.com/Shivi2599/Trainity-Internship-Projects/tree/main/Analyzing%20the%20Impact%20of%20Car%20Features%20on%20Price%20and%20Profitability)
-8. [ABC Call Trend]
+8. [ABC Call Volume Trend Analysis](https://github.com/Shivi2599/Trainity-Internship-Projects/blob/main/ABC%20Call%20Volume%20Trend%20Analysis/README.md)
 
 ## Technologies Used
 
 - MySQL
-- Excel
-- Data Visualisation Tools
+- Advanced Excel
+- Data Cleaning
 - Data Analysis
-- Statistics
-- Presentation
-- Regression Analysis
+- Data Visualisation Tools
 - Pivot Tables
+- Statistics
+- Regression Analysis
+- Dashboard
+- Charts and Graphs
+- Presentation
+- Communication SKills
