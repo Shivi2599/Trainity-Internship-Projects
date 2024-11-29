@@ -1,4 +1,4 @@
-# Trainity Internship Projects
+[sql_intermediate certificate.pdf](https://github.com/user-attachments/files/17958219/sql_intermediate.certificate.pdf)# Trainity Internship Projects
 
 Welcome to my internship project repository.This repository contains projects I completed during my internship at __Trainity__, focusing on various aspects of __data analytics, Excel, SQL, and business intelligence__. Each project is aimed at solving real-world problems using different tools and techniques.
 
@@ -15,15 +15,20 @@ Welcome to my internship project repository.This repository contains projects I 
 
 ## Technologies Used
 
+### Hard Skills
+
 - MySQL
-- Advanced Excel
-- Data Cleaning
-- Data Analysis
-- Data Visualisation Tools
+- Excel formulas
 - Pivot Tables
 - Statistics
 - Regression Analysis
-- Dashboard
+- Dashboards
 - Charts and Graphs
 - Presentation
 - Communication SKills
+
+### Soft Skills
+
+- Data Cleaning
+- Data Analysis
+- Problem Solving
